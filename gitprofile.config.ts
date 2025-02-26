@@ -11,7 +11,7 @@ const CONFIG = {
     github: {
       display: true,
       header: 'GitHub Projects',
-      mode: 'automatic',// Using manual mode to showcase specific projects
+     mode: 'automatic',
      automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
@@ -32,8 +32,7 @@ const CONFIG = {
         {
           title: 'Dappazon',
           description:
-            'Built a decentralized e-commerce platform on Ethereum, enabling users to securely buy and sell products using
- cryptocurrency.',
+            'Built a decentralized e-commerce platform on Ethereum, enabling users to securely buy and sell products',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/fxxxxr/dappazon',
@@ -41,8 +40,7 @@ const CONFIG = {
         {
           title: 'Real Estate NFT DApp',
           description:
-            ' Developed a decentralized real estate marketplace using Solidity and React.js, enhancing transaction security and
- transparency.',
+            ' Developed a decentralized real estate marketplace using Solidity and React.js, enhancing transaction security',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://github.com/fxxxxr/REAL_ESTATE-SMART-CONTRACT-BLOCKCHAIN',
@@ -62,8 +60,7 @@ const CONFIG = {
     website: '',
   },
   resume: {
-    fileUrl: 'https://drive.google.com/uc?export=download&id=1ocgjcSk8XqYKYIYjlHpuqNZmUrJo1eT1
-', // Replace with actual hosted resume URL
+    fileUrl: 'https://drive.google.com/file/d/1ocgjcSk8XqYKYIYjlHpuqNZmUrJo1eT1/view?usp=drivesdk', // Replace with actual hosted resume URL
   },
   skills: [
     'Solidity', 'Ethereum', 'Javascript', 'Hardhat', 'Web3.js', 'Ether.js',
