@@ -98,10 +98,20 @@ const CONFIG = {
       to: '2026',
     },
     ],
-  achievements: [
-    'Smart India Hackathon (SIH) Finalist',
-    'Top 5 in CSE Branch',
-    'Learned Japanese Language'
+ 
+  certifications: [
+    {
+      name: 'Smart India Hackathon (SIH) Finalist',
+      body: 'Government of India',
+      year: '2023',
+      link: '',
+    },
+    {
+      name: 'Top 3 in CSE Branch',
+      body: 'Indian Institute of Information Technology Manipur',
+      year: '2024',
+      link: '',
+    },
   ],
   themeConfig: {
     defaultTheme: 'nord',
