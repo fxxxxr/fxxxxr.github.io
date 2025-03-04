@@ -4,7 +4,7 @@ const CONFIG = {
 
   
   github: {
-    username: 'fxxxxr', // Updated GitHub username
+    username: 'gautam376', // Updated GitHub username
   },
   base: '/', // Assuming deployment to https://fxxxxr.github.io/
   projects: {
