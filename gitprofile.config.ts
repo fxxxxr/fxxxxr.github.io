@@ -60,7 +60,7 @@ const CONFIG = {
     website: '',
   },
   resume: {
-    fileUrl: 'https://drive.google.com/file/d/1pZPlMd4bJVwE8iuldJb3mD2Ccvqbt2CJ/view?usp=drivesdk', // Replace with actual hosted resume URL
+    fileUrl: 'https://drive.google.com/file/d/1ranDCN1Ux9ctV7zJeUmBkk_jOF0W4xfI/view?usp=drivesdk ', // Replace with actual hosted resume URL
   },
   skills: [
     'Solidity', 'Ethereum', 'Javascript', 'Hardhat', 'Web3.js', 'Ether.js',
